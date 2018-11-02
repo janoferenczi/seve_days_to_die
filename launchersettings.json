@@ -1,0 +1,13 @@
+{
+  "Use32BitEngine" : false,
+  "ShowLauncher" : false,
+  "DefaultRunConfig" : {
+    "ExclusiveMode" : true,
+    "ShowScreenSelector" : false,
+    "UseGLCore" : false,
+    "UseEAC" : true,
+    "UseNativeInput" : false,
+    "DisableUNET" : false,
+    "AdditionalParameters" : ""
+  }
+}
